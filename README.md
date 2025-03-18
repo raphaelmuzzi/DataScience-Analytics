@@ -1,5 +1,6 @@
 # DataScience-Analitics
 ## My Portfolio of Data Science and Analytics projects.
+### You are welcome to suggest improvements!
 
 - R (work in progress)
 - Python (empty for now)
