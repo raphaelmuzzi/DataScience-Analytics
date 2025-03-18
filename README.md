@@ -3,6 +3,7 @@
 
 - R
 - Python (work in progress)
+- Git and Github
 - SQL (work in progress)
 - Excel (work in progress)
 - VBA (work in progress)
