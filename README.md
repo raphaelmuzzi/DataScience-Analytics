@@ -1,10 +1,10 @@
 # DataScience-Analitics
 ## My Portfolio of Data Science and Analytics projects.
 
-- R
-- Python (work in progress)
-- Git and Github
+- R (work in progress)
+- Python (empty for now)
+- Git and Github (work in progress)
 - SQL (work in progress)
-- Excel (work in progress)
-- VBA (work in progress)
-- Power BI (work in progress)
+- Excel (empty for now)
+- VBA (empty for now)
+- Power BI (empty for now)
