@@ -25,7 +25,7 @@ INSERT INTO muzzi.a (matr, Nome) VALUES
 -- Populates Table B
 INSERT INTO b (matr, Endereço) VALUES
 (1113, 'R. Morango'),
-(1114matrmatr, 'R. Abacate'),
+(1114, 'R. Abacate'),
 (1115, 'R. Morango'),
 (1116, NULL), -- Empty address → NULL
 (1117, 'Av. Maçã'),
