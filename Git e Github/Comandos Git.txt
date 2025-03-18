@@ -6,6 +6,7 @@ shift + insert = PASTE
 GitHub - Criar um repositório (repo) > clicar no logo do Github > clicar em New > 
 GitHub - Deletar um repositório (repo) > entrar nele > Danger Zone (bem em baixo) > Delete this repositor > confirmar as várias etapas
 GitHub - Criar uma pasta num repo > estando no repo > clicar Add file (canto sup-dir) > CREATE file > (canto sup-esq) Repo/ digitar o nome da pasta/arquivo_qlq.txt [Depois adicione arquivos a essa pasta e delete o arquivo_qlq.txt]
+Github - Adicionar um arquivo >  estando no repo/pasta > clicar Add file (canto sup-dir) > Upload file >
 GitHub - Deletar um arquivo (de um repo ou pasta) > entrar no arquivo > clicar nos 3 pontos (canto sup-dir) > rolar tudo p/ baixo > delete file > commit changes (se fôr o único arquivo na pasta, a pasta tbm será deletada)
 
 minha pasta no Windows que está conectada ao GitHub:
