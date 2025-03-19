@@ -8,10 +8,10 @@ SUGESTÕES DE MELHORIAS SÃO MUITO BEM VINDAS!
 ---
 
 ## 🚀 Funcionalidades Principais
-- 📌 **Criação de Tabelas**: `A` (com Nome) e `B` (com Endereço).
-- 📌 **Inserção de Dados**: População inicial de ambas as tabelas com diferentes registros.
-- 📌 **Consulta e Verificação**: `SELECT` para verificar os dados inseridos.
-- 📌 **Junção de Dados**: Uso de `LEFT JOIN` para combinar registros das tabelas `A` e `B`.
+- **Criação de Tabelas**: `A` (com Nome) e `B` (com Endereço).
+- **Inserção de Dados**: População inicial de ambas as tabelas com diferentes registros.
+- **Consulta e Verificação**: `SELECT` para verificar os dados inseridos.
+- **Junção de Dados**: Uso de `LEFT JOIN` para combinar registros das tabelas `A` e `B`.
 
 ---
 
