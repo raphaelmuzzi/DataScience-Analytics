@@ -2,6 +2,8 @@
 
 Este script realiza uma **Análise Exploratória de Dados (EDA)** sobre a população de Portugal, utilizando informações demográficas de 2024 da **Human Mortality Database (HMD)**. Vamos explorar a distribuição da população por sexo e idade! 🎉
 
+SUGESTÕES DE MELHORIAS SÃO MUITO BEM VINDAS! 
+
 ## 🔍 Principais Funcionalidades:
 
 - 📥 **Carregamento de Dados**: Importa dados sobre a população a partir de um arquivo `.txt`
