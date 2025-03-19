@@ -6,7 +6,7 @@ shift + insert = PASTE
 Criando arquivos README - Anexar o código (script, query, etc) no Chat GPT e pedir que ele crie um README em formato markdown dizendo o que ele faz, quais a principais funcionalidades, pacotes utilizados, funcões utilizadas, criar hashtags e usar emojis. > Criar um arquivo Rmarkdown ( > from template > github document (markdown) ) no R Studio, colar o README criado pelo Chat CPT e salvar como .Rmd > Ir na pasta onde salvou e mudar a extensão para .md > fazer upload no Github
 
 GitHub - Criar um repositório (repo) > clicar no logo do Github > clicar em New > 
-GitHub - Deletar um repositório (repo) > entrar nele > Danger Zone (bem em baixo) > Delete this repositor > confirmar as várias etapas
+GitHub - Deletar um repositório (repo) > entrar nele > clicar em settings (catraca) (canto sup-dir) > Danger Zone (bem em baixo) > Delete this repositor > confirmar as várias etapas
 GitHub - Criar uma pasta num repo > estando no repo > clicar Add file (canto sup-dir) > CREATE file > (canto sup-esq) Repo/ digitar o nome da pasta/arquivo_qlq.txt [Depois adicione arquivos a essa pasta e delete o arquivo_qlq.txt]
 Github - Adicionar arquivos >  estando no repo/pasta > clicar Add file (canto sup-dir) > Upload files > Selecionar arquivos > CLICAR EM COMMIT (parte inferior da pagina)
 GitHub - Deletar um arquivo (de um repo ou pasta) > entrar no arquivo > clicar nos 3 pontos (canto sup-dir) > rolar tudo p/ baixo > delete file > commit changes (se fôr o único arquivo na pasta, a pasta tbm será deletada)
