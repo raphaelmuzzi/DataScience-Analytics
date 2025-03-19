@@ -6,10 +6,10 @@ SUGESTÕES DE MELHORIAS SÃO MUITO BEM VINDAS!
 
 ## 🔍 Principais Funcionalidades:
 
-- 📥 **Carregamento de Dados**: Importa dados sobre a população a partir de um arquivo `.txt`
-- 🧹 **Limpeza de Dados**: Prepara os dados para análise, corrigindo valores e transformando formatos
-- 📈 **Visualizações**: Gera gráficos que mostram a população por sexo e distribuição etária
-- 🔎 **Estatísticas Resumidas**: Agrupa dados em faixas etárias para facilitar a análise
+- **Carregamento de Dados**: Importa dados sobre a população a partir de um arquivo `.txt`
+- **Limpeza de Dados**: Prepara os dados para análise, corrigindo valores e transformando formatos
+- **Visualizações**: Gera gráficos que mostram a população por sexo e distribuição etária
+- **Estatísticas Resumidas**: Agrupa dados em faixas etárias para facilitar a análise
 
 ## 📊 Gráficos Incluídos:
 
