@@ -3,6 +3,8 @@
 ## 📌 Descrição
 Este script SQL cria e manipula duas tabelas (`A` e `B`), insere dados e realiza consultas utilizando `LEFT JOIN`. Ele demonstra a integração entre diferentes conjuntos de dados, permitindo visualizar todas as matrículas presentes na tabela `A` e também as que existem na tabela `B`.
 
+SUGESTÕES DE MELHORIAS SÃO MUITO BEM VINDAS!
+
 ---
 
 ## 🚀 Funcionalidades Principais
