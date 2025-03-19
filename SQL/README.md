@@ -46,5 +46,4 @@ Isso demonstra que todas as matrículas da tabela `A` são mantidas, mesmo que n
 
 ---
 
-## 📢 Hashtags  
-#SQL #BancoDeDados #Joins #SQLQueries #DataAnalysis #DataScience
+## 📢 Hashtags: `#SQL` `#BancoDeDados` `#Joins` `#SQLQueries` `#DataAnalysis` `#DataScience`
