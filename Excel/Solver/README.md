@@ -28,4 +28,4 @@ Sinta-se à vontade para sugerir melhorias ou compartilhar suas adaptações!
 Futuramnete irei aprimorar esta planilha usando macros (VBA) para automatizar a criação de diferentes cenários!
 
 ## 🔗 Conecte-se Comigo
-Se achou útil, me siga no **[LinkedIn](https://www.linkedin.com/)** e confira outros projetos no **[meu GitHub](https://github.com/)**! 🚀
+Se achou útil, me siga no **[LinkedIn](https://www.linkedin.com/)** e confira outros projetos no **[meu GitHub](https://github.com/raphaelmuzzi/DataScience-Analytics))**! 🚀
