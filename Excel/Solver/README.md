@@ -20,7 +20,7 @@ Este repositório contém uma planilha do **Excel** que utiliza o **Solver** par
 OBS.: Todos os parâmetros acima podem ser alterados para gerar cenários distintos.
 
 ## 📈 Resultados
-Com uma taxa de **3,5% ao ano** e um período de **30 anos**, o Solver determina que o valor mensal a ser economizado para atingir **€200.000** é **R$ 317,79**.
+Com uma taxa de **3,5% ao ano** e um período de **30 anos**, o Solver determina que o valor mensal a ser economizado para atingir **€200.000** é **€317,79**.
 
 ## 📢 Contribuição
 Sinta-se à vontade para sugerir melhorias ou compartilhar suas adaptações!
