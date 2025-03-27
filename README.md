@@ -1,11 +1,12 @@
 # DataScience-Analitics
 ## My Portfolio of Data Science and Analytics projects.
 ### You are welcome to suggest improvements!
+#### WIP = Work in Progress
 
-- R (work in progress)
-- Python (empty for now)
-- Git and Github (work in progress)
-- SQL (work in progress)
-- Excel (empty for now)
-- VBA (empty for now)
-- Power BI (empty for now)
+- R - WIP
+- Python - empty for now
+- Git and Github - WIP
+- SQL - WIP
+- Excel - WIP
+- VBA - empty for now
+- Power BI - WIP
