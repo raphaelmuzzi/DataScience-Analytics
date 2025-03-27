@@ -13,7 +13,7 @@ Ele permite visualizar padrões de compra, identificar tendências e monitorar i
 ✅ **Visualizações interativas e dinâmicas incluindo a ferramenta Tooltip (mini dashboard)** 📈
 
 ## 📂 Arquivo  
-- [`Dash_compras_Raphael_Muzzi.pbix`](Dash_compras_Raphael_Muzzi.pbix) – Arquivo Power BI contendo todas as análises e visualizações.
+- [`Dash_compras_Raphael_Muzzi.pbix`](Dash_compras_Raphael_Muzzi.pbix) – Arquivo Power BI contendo todas as análises e visualizações. Criado pelo brabíssimo [`Alon Pinheiro`](https://lnkd.in/dG-YyKTP) da [`Hashtag treinamentos`](https://lnkd.in/dV_jyAN2)
 
 ## ⚙️ Tecnologias Utilizadas  
 - **Power BI** 🖥️  
@@ -27,7 +27,7 @@ Ele permite visualizar padrões de compra, identificar tendências e monitorar i
 4. Explore os dados e gere insights!  
 
 ## 🏷️ 🔗
-`#PowerBI`, `#BusinessIntelligence`, `#BI`, `#Dashboards`, `#DataAnalytics`, `#DataViz`, `#Compras`
+`#PowerBI`, `#Tooltip`, `#BusinessIntelligence`, `#BI`, `#Dashboards`, `#DataAnalytics`, `#DataViz`, `#Compras`
 
 **Se gostou do projeto, não esqueça de dar uma ⭐ no repositório!**
 **Sugestões de melhoria são muito bem-vindas! Obrigado! :)**
