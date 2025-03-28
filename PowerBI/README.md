@@ -2,4 +2,4 @@
 
 ## Projetos em Power BI
 
-`#PowerBI`, `#MSPowerBI`, `#DataViz`, `#Analytics`, `#DataScience`, `#Tooltip`  
+`#PowerBI`, `#MSPowerBI`, `#DataViz`, `#Analytics`, `#DataScience`, `#Tooltip`, `DAX`, `M`
