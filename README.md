@@ -3,10 +3,10 @@
 ### You are welcome to suggest improvements!
 #### WIP = Work in Progress
 
-- R - WIP
-- Python - empty for now
-- Git and Github - WIP
-- SQL - WIP
 - Excel - WIP
-- VBA - empty for now
+- Git and Github - WIP
 - Power BI - WIP
+- Python - empty for now
+- R - WIP
+- SQL - WIP
+- VBA - empty for now
