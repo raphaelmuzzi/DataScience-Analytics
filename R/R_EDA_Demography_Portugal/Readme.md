@@ -1,4 +1,4 @@
-# 📊 EDA da População em Portugal (2024)
+# ![icon_RStudio_30 30px](https://github.com/user-attachments/assets/c51ded60-e2db-4e79-8237-4e68918ac099) 📊 EDA da População em Portugal (2024)
 
 Este script realiza uma **Análise Exploratória de Dados (EDA)** sobre a população de Portugal, utilizando informações demográficas de 2024 da **Human Mortality Database (HMD)**. Vamos explorar a distribuição da população por sexo e idade! 🎉
 
