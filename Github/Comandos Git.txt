@@ -1,0 +1,39 @@
+COMANDOS
+
+ctrl + insert = COPY
+shift + insert = PASTE
+
+GitHub - Criar um repositório (repo) > clicar no logo do Github > clicar em New > 
+GitHub - Deletar um repositório (repo) > entrar nele > Danger Zone (bem em baixo) > Delete this repositor > confirmar as várias etapas
+GitHub - Criar uma pasta num repo > estando no repo > clicar Add file (canto sup-dir) > CREATE file > (canto sup-esq) Repo/ digitar o nome da pasta/arquivo_qlq.txt [Depois adicione arquivo a essa pasta e delete o arquivo_qlq.txt]
+GitHub - Deletar um arquivo (de um repo ou pasta) > entrar no arquivo > clicar nos 3 pontos (canto sup-dir) > rolar tudo p/ baixo > delete file > commit changes (se fôr o único arquivo na pasta, a pasta tbm será deletada)
+
+minha pasta no Windows que está conectada ao GitHub:
+C:\Users\rmuzz\DataScience-Analytics\
+
+Para deletar uma branch > 37m30s do vídeo 3 do curso de Git(hub) do Teo Me Why (https://www.youtube.com/watch?v=pzjdEQOmsLA&list=PLvlkVRRKOYFQyKmdrassLNxkzSMM6tcSL&index=3)
+
+pwd - mostra em que diretório o terminal está
+ls - lista arquivos e pastas do diretório corrente
+ls -a - lista arquivos e pastas do diretório corrente incluindo arquivos ocultos (.. = pasta raiz = pasta acima)
+clear - limpa a tela
+cd - mover para outro diretório
+commit = save
+mkdir - criar uma pasta nova
+cat - mostra conteúdo de um arquivo
+git ini . - cria uma repositório na pasta onde vc estiver
+git init . - cria um repo git na pasta atual
+rm - remove arquivo ou diretório
+rm -rf .git - exlcui pasta na qual vc estiver (!!! TER MUITO CUIDADO POIS ESSE COMANDO APAGA TUDO SEM VOLTA !!!)
+git status - mostra o status do trabalho
+git add nome_arquivo - adiciona arquivo para ser commitado
+git commit -m "msg" - faz commit do que estava para ser commitado
+git config --global user.email "rmuzzi@gmail.com" - configura globalmente o email do usuário 
+git config --global user.email - exibe o email do usuário global 
+git config --global user.name "raphaelmuzzi" - configura globalmente o nome do usuário
+git config --global user.name - exibe o name do usuário global
+
+nano - editor de texto builtin no Git Bash
+	^ - ctrl
+	^+o - salva texto escrito no nano
+	^+x - sai do nano
