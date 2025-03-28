@@ -2,4 +2,4 @@
 
 ## Projetos em Excel
 
-`#Excel`, `#MSExcel`, `#Solver`, `#Goalseek`, `#DataScience`, `#Analytics`
+`#Excel`, `#MSExcel`, `#Solver`, `#Goalseek`, `Atingir Meta`, `#DataScience`, `#Analytics`, `Pivot Table`, `Tabela Dinamica`
