@@ -1,0 +1,11 @@
+# Forçar arquivos .py a serem contabilizados como Python
+*.py linguist-detectable
+*.xlsx linguist-detectable
+*.xlsm linguist-detectable
+*.sql linguist-detectable
+*.pbix linguist-detectable
+*.R linguist-detectable
+*.Rmd linguist-detectable
+
+# Se quiser incluir outros arquivos (opcional):
+# *.extensão linguist-detectable
