@@ -47,8 +47,6 @@ pip install pandas numpy matplotlib statsmodels scikit-learn
 - Evaluation metrics (MAE, RMSE, BIC and AIC)
 - Plot of observed and forecasted values with confidence intervals
 
-If you liked the project, don't forget to give the repository a ⭐! Improvement suggestions are very welcome! Thank you! :)
+If you liked the project, don't forget to give the repository a ⭐!
 
-<PT-BR> Se gostou do projeto, não esqueça de dar uma ⭐ no repositório! e seguir o Alon Pinheiro e a Hashtag treinamentos
-
-Sugestões de melhoria são muito bem-vindas! Obrigado! :)
+Improvement suggestions are very welcome! Thank you! :)
