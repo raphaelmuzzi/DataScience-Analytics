@@ -4,11 +4,11 @@ This project applies a time series forecasting technique (ARIMA) to model and pr
 
 ## 📁 Project Structure
 
-flight-forecast-arima/ ├── flights_data.csv ├── flight_forecast_arima.py └── README.md
+Py_TimeSeries_AirPassengers/ ├── AirPassengers.csv ├── Py_TimeSeries_AirPassengers.ipynb └── README.md
 
 ## 📊 Dataset
 
-- **Source**: `flights_data.csv`
+- **Source**: `AirPassengers.csv (Kaggle)`
 - **Required Columns**:
   - `Date`: Monthly timestamps in `YYYY-MM-DD` format.
   - `Flights`: Number of flights per month.
@@ -17,7 +17,7 @@ flight-forecast-arima/ ├── flights_data.csv ├── flight_forecast_arim
 
 ## 🧠 Model
 
-This project uses an **ARIMA(5,1,0)** model to analyze and forecast flight traffic. ARIMA is a classical time series model capable of handling trends and autocorrelations.
+This project uses an **ARIMA(2,1,1)** model to analyze and forecast flight traffic. ARIMA is a classical time series model capable of handling trends and autocorrelations.
 
 ### Key Features
 
@@ -36,13 +36,13 @@ pip install pandas numpy matplotlib statsmodels scikit-learn
   
 ## ▶️ How to Run
 
-1. Place your flights_data.csv in the project directory.
+1. Place your `AirPassengers.csv` in the project directory.
 
 2. Run the script:
-`python flight_forecast_arima.py`
+`Py_TimeSeries_AirPassengers.ipynb`
 
 3. Output includes:
 - ARIMA model summary
 - Forecasted flight numbers for 1961
-- Evaluation metrics (MAE, RMSE)
+- Evaluation metrics (MAE, RMSE, BIC and AIC)
 - Plot of observed and forecasted values with confidence intervals
