@@ -17,7 +17,7 @@ Py_TimeSeries_AirPassengers/ ├── AirPassengers.csv ├── Py_TimeSeries
 
 ## 🧠 Model
 
-This project uses an **ARIMA(2,1,1)** model to analyze and forecast flight traffic. ARIMA is a classical time series model capable of handling trends and autocorrelations.
+This project uses an **ARIMA(2,1,1)** Seasonal (0, 1, [], 12) model to analyze and forecast flight traffic. ARIMA is a classical time series model capable of handling trends and autocorrelations.
 
 ### Key Features
 
