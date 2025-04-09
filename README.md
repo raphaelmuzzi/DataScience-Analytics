@@ -13,7 +13,7 @@ WIP = Work in Progress
  
 ![Icon_PowerBI_30 30px](https://github.com/user-attachments/assets/42c43478-8645-49e9-a157-1dd789ea5a18)     [Power BI - WIP](https://github.com/raphaelmuzzi/DataScience-Analytics/tree/main/PowerBI)
  
-  ![icon_Python_30 30px](https://github.com/user-attachments/assets/e67f5d54-2e11-4070-827f-ba7a2a59054a)     [Python - empty for now](https://github.com/raphaelmuzzi/DataScience-Analytics/tree/main/Python)
+  ![icon_Python_30 30px](https://github.com/user-attachments/assets/e67f5d54-2e11-4070-827f-ba7a2a59054a)     [Python - WIP](https://github.com/raphaelmuzzi/DataScience-Analytics/tree/main/Python)
  
  ![icon_RStudio_30 30px](https://github.com/user-attachments/assets/d20c0dcb-6c93-43a8-89dd-0483a70530a9)     [R - WIP](https://github.com/raphaelmuzzi/DataScience-Analytics/tree/main/R)
  
