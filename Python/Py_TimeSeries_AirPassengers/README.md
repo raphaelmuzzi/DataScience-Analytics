@@ -2,6 +2,8 @@
 
 This project applies a time series forecasting technique (ARIMA) to model and predict monthly flight traffic using historical data. The main goal is to forecast the number of flights for the 12 months of 1961, along with 95% confidence intervals.
 
+NOTE: this project is the same as the one posted in the R folder but translated into Python language
+
 ## 📁 Project Structure
 
 Py_TimeSeries_AirPassengers/ ├── AirPassengers.csv ├── Py_TimeSeries_AirPassengers.ipynb └── README.md
