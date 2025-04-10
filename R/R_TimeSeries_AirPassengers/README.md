@@ -1,5 +1,5 @@
 
-# ![icon_RStudio_30 30px](https://github.com/user-attachments/assets/84ebeefc-831c-4f8d-bc38-24cc9ecc02f0) ✈️ ARIMA Forecast for Monthly Flight Traffic (1961)
+# ![icon_RStudio_30 30px](https://github.com/user-attachments/assets/84ebeefc-831c-4f8d-bc38-24cc9ecc02f0) ARIMA Forecast for Monthly Flight Traffic (1961) ✈️
 
 This project applies a time series forecasting technique (ARIMA) to model and predict monthly flight traffic using historical data. The main goal is to forecast the number of flights for the 12 months of 1961, along with 95% confidence intervals.
 
